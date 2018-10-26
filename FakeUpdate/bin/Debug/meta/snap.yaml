@@ -1,0 +1,6 @@
+name: FakeUpdateArch
+version: 1.0
+summary: FakeUpdate for Arch Linux
+apps:
+    fakeupdate:
+        command: mono FakeUpdate.exe

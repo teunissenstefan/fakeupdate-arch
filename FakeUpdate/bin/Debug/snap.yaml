@@ -1,0 +1,5 @@
+name: FakeUpdateArch
+version: 1.0
+apps:
+    hello:
+        command: mono FakeUpdate.exe

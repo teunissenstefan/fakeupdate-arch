@@ -1,0 +1,6 @@
+/home/teunissenstefan/Projects/FakeUpdate/FakeUpdate/bin/Debug/FakeUpdate.exe
+/home/teunissenstefan/Projects/FakeUpdate/FakeUpdate/bin/Debug/FakeUpdate.pdb
+/home/teunissenstefan/Projects/FakeUpdate/FakeUpdate/obj/x86/Debug/FakeUpdate.csprojAssemblyReference.cache
+/home/teunissenstefan/Projects/FakeUpdate/FakeUpdate/obj/x86/Debug/FakeUpdate.csproj.CoreCompileInputs.cache
+/home/teunissenstefan/Projects/FakeUpdate/FakeUpdate/obj/x86/Debug/FakeUpdate.exe
+/home/teunissenstefan/Projects/FakeUpdate/FakeUpdate/obj/x86/Debug/FakeUpdate.pdb
